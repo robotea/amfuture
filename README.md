@@ -56,7 +56,7 @@ Let's have easy usage: class EasyTest is spawned only once.
 
     int res = future.get(); //returns 11
 
-Parallel ose of little more difficult. You need synchronization
+Parallel use of little more difficult. You need synchronization
 
     std::atomic<int> atomicIdMem(1);
     std::map<int, int> retvals;
@@ -163,6 +163,10 @@ make
 This library is under GNU GPL v3 license. If you need business license, don't hesitate to contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMFuture).
 
 ## Contribute
+
+Please contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMFuture).
+
+## Ask for hepĺp
 
 Please contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMFuture).
 
